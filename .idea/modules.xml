@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-fundmental/spring-fundmental.iml" filepath="$PROJECT_DIR$/spring-fundmental/spring-fundmental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/临时模块/临时模块.iml" filepath="$PROJECT_DIR$/临时模块/临时模块.iml" />
+      <module fileurl="file://$PROJECT_DIR$/其他/其他.iml" filepath="$PROJECT_DIR$/其他/其他.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" filepath="$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />
+    </modules>
+  </component>
+</project>
